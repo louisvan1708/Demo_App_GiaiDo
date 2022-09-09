@@ -139,8 +139,8 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
                         val intent = Intent(this, InappActivity :: class.java)
                         startActivity(intent)
 
-//                            Toast.makeText(this, "you have successfully completed thr Quiz",
-//                            Toast.LENGTH_LONG).show()
+                            Toast.makeText(this, "you have successfully completed thr Quiz",
+                            Toast.LENGTH_LONG).show()
                         }
                     }
                 } else{
