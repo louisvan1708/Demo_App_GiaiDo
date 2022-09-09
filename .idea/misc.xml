@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/drawable/correct_option_boder.xml" value="0.1" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/drawable/custom_button_start.xml" value="0.203" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/drawable/custom_tv.xml" value="0.1975" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/drawable/custom_tvbutton.xml" value="0.1665" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1975" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/drawable/select_opsions_boder.xml" value="0.108" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/drawable/wrong_option_boder.xml" value="0.1" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/layout/activity_inapp.xml" value="0.25" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/layout/activity_main.xml" value="0.1762295081967213" />
+        <entry key="..\:/Users/PC4/AndroidStudioProjects/Demo_App_GiaiDo/app/src/main/res/layout/activity_quiz_questions.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
